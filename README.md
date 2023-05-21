@@ -1,7 +1,11 @@
 Hi My name is Param Verma
+
 I am Front End developer.
+
 🌍  I'm based in New Delhi, India
+
 🧠  Currently learning Node.js
+
 🤝  I'm open to collaborating on interesting projects as a developer
 
 Skills
