@@ -6,11 +6,14 @@ I am Front End developer.
 
 🧠  Currently learning Node.js
 
+🖥️  See my portfolio at [Portfolio](https://paramvermaa.github.io/portfolioo/)
+
 🤝  I'm open to collaborating on interesting projects as a developer
 
 Skills
-HTML5  
-CSS3    JavaScript    React    Sass 
+
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,java,react)](https://skills.thijs.gg)
 
 Socials
-https://www.linkedin.com/in/param-verma-a198811b8/
+
+[![My Skills](https://skills.thijs.gg/icons?i=linkedin)](https://www.linkedin.com/in/param-verma-a198811b8/)
